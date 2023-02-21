@@ -18,9 +18,6 @@
           "s3Key": "amplify-builds/getUser-6330597a6e334d446a70-build.zip"
         }
       },
-      "api": {
-        "apie2312971": {}
-      },
       "hosting": {
         "amplifyhosting": {
           "appId": "d3avdkdqq1w1er",

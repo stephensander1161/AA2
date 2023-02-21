@@ -23,6 +23,9 @@
           "appId": "d3avdkdqq1w1er",
           "type": "manual"
         }
+      },
+      "api": {
+        "axisandallies": {}
       }
     }
   }
